@@ -5,7 +5,7 @@ function Navbar({ changeDarkMode, darkMode }) {
     console.log(darkMode)
     return (
         <div className="flex dark:bg-dark-mode-elements dark:text-dark-mode-text  justify-between shadow-lg p-6 font-main text-light-mode-text">
-            <h3 className="ml-4 text-base md:text-xl font-bold">testing </h3>
+            <h3 className="ml-4 text-base md:text-xl font-bold">Where is the world?</h3>
             <button onClick={changeDarkMode} className="mr-4 text-base md:text-xl flex justify-center  items-center ">
                 {darkMode !== "dark"
                     ? <FaRegMoon className='mr-3 mb-1 text-base md:text-xl'></FaRegMoon>
