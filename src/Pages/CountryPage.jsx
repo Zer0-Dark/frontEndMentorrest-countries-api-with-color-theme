@@ -42,7 +42,7 @@ function CountryPage({ countryData }) {
             <Link to="/" className='dark:bg-dark-mode-elements dark:text-dark-mode-text flex w-40 justify-center  items-center p-4 bg-white mb-10 ml-10 shadow-lg'>
                 <FaArrowLeft className='mr-4' /> Back</Link>
             <div className='flex mx-10 mt-10 flex-col md:flex-row md:items-start items-center '>
-                <img className='md:max-w-1/2 h-[55vh] shadow-sm' alt='sda' src={wantedCountry.flags?.png}></img>
+                <img className='md:max-w-1/2  md:h-[55vh] shadow-sm' alt='sda' src={wantedCountry.flags?.png}></img>
                 <div className=' md:ml-10 md:w-[50%]'>
                     <h1 className='my-[6%] font-bold text-3xl '>{wantedCountry.name}</h1>
                     <div className='flex flex-col  md:flex-row md:items-start items-center'>
