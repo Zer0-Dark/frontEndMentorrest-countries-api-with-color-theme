@@ -9,14 +9,13 @@ This is a solution to the [REST Countries API with color theme switcher challeng
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
+      - [The Home Page (Dark mode)](#the-home-page-dark-mode)
+      - [The Info Page (Dark mode)](#the-info-page-dark-mode)
+      - [The Home Page (Light Mode)](#the-home-page-light-mode)
+      - [The Info Page (Light mode)](#the-info-page-light-mode)
     - [Links](#links)
-  - [My process](#my-process)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
   - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -33,31 +32,48 @@ Users should be able to:
 - Toggle the color scheme between light and dark mode *(optional)*
 
 ### Screenshot
+#### The Home Page (Dark mode)
 
-![](./screenshot.jpg)
+![alt text](<frontendmentorss/FireShot Capture 002 - Vite + React - localhost.png>)
+Mobile
+![alt text](<frontendmentorss/FireShot Capture 007 - Vite + React - localhost.png>)
 
+#### The Info Page (Dark mode)
+![alt text](<FireShot Capture 004 - Vite + React - localhost.png>)
+Mobile 
+![alt text](<FireShot Capture 009 - Vite + React - localhost.png>)
+#### The Home Page (Light Mode)
+![alt text](<FireShot Capture 003 - Vite + React - localhost.png>)
+
+Mobile
+
+![alt text](<FireShot Capture 006 - Vite + React - localhost-2.png>)
+
+
+#### The Info Page (Light mode)
+![alt text](<FireShot Capture 005 - Vite + React - localhost.png>)
+
+Mobile
+![alt text](<FireShot Capture 010 - Vite + React - localhost.png>)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click me :3](https://github.com/Zer0-Dark/frontEndMentorrest-countries-api-with-color-theme)
+- Live Site URL: [Click me :3](https://front-end-mentorrest-countries-api-with-color-theme-kapo.vercel.app/)
 
-## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- [React Router](https://reactrouter.com/en/main/) - For Routing
+- [Css Tailwind](https://tailwindcss.com/) - For Styling and the Dark mode 
+- [React Icons](https://www.npmjs.com/package/react-icons) - For icons
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
-### What I learned
+
+<!-- ### What I learned -->
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
@@ -81,13 +97,13 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 **Note: Delete this note and the content within this section and replace with your own learnings.**
 
-### Continued development
+<!-- ### Continued development -->
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
-### Useful resources
+<!-- ### Useful resources -->
 
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
@@ -96,13 +112,12 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Twitter - [@zer00dark](https://www.twitter.com/zer00dark)
 
-## Acknowledgments
+
+
+<!-- ## Acknowledgments -->
 
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
